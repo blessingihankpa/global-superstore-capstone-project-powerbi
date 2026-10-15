@@ -63,7 +63,7 @@ This project demonstrates the use of Power BI for data cleaning, data modelling,
 
 ### 2. Country & Product Performance
 
-![Country and Product Performance](Country_%26_Product%20_Performance.png)
+![Country and Product Performance](Country_%26_%20Product%20_Performance.png)
 
 ### 3. Profitability & Customer Insights
 
