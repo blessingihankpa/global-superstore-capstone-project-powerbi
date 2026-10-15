@@ -54,3 +54,17 @@ The report file is available in this repository.
 ## Conclusion
 
 This project demonstrates the use of Power BI for data cleaning, data modelling, DAX calculations, visualisation, and business analysis. It shows how sales data can be transformed into insights that support informed decision-making.
+
+## Dashboard Preview
+
+### 1. Executive Overview
+
+![Executive Overview](Executive%20Overview.png)
+
+### 2. Country & Product Performance
+
+![Country and Product Performance](Country_%26_Product%20_Performance.png)
+
+### 3. Profitability & Customer Insights
+
+![Profitability and Customer Insights](Profitability_%26_Customer_Insights.png)
